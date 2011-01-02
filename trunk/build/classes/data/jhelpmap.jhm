@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+  <!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN" "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<!--
+    Document   : jhelpmap.jhm.xml
+    Created on : 6. december 2010, 21:53
+    Author     : Nyvang
+    Description:
+    Purpose of the document follows.
+-->
+
+  <map version="1.0">
+    <mapID target="Root" url="index.html"/>
+    <mapID target="Root.Introduction" url="shortcuts.html"/>
+    <mapID target="Root.Explanation" url="intro.html"/>
+    <mapID target="Root.Explanation.Files" url="intro.html"/>
+    <mapID target="Root.Explanation.Login" url="login.html"/>
+    <mapID target="Root.Explanation.Vehicle" url="vehicle.html"/>
+    <mapID target="Root.Explanation.Order" url="order.html"/>
+    <mapID target="Root.Explanation.Spreadsheets" url="repair.html"/>
+    <mapID target="Root.Explanation.Spreadsheets.Repairstation" url="repair.html"><
+    <mapID target="Root.Explanation.Spreadsheets.Dynostation" url="dyno.html"><
+    <mapID target="Root.Explanation.Spreadsheets.Enginestation" url="engine.html">
+    <mapID target="Root.Explanation.Spreadsheets.Suspensionstation" url="suspension.html">
+    <mapID target="Root.Explanation.Email" url="email.html"/>
+    <mapID target="id47" url="vehicle.htm"/>
+  </map>
+
+

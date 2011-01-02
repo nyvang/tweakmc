@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE index PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN" "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<!--
+    Document   : jhelpidx.xml
+    Created on : 6. december 2010, 21:55
+    Author     : Nyvang
+    Description:
+        Purpose of the document follows.
+-->
+
+
+  <index version="1.0">
+    <indexitem text="Vehicle" target="id47"/>
+  </index>
